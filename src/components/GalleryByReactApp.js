@@ -154,7 +154,7 @@ var GalleryByReactApp = React.createClass({
           vPosRangeX = vPosRange.x,
 
           imgsArrangeTopArr  = [],
-          topImgNum = Math.ceil(Math.random() * 2),//取零个或一个
+          topImgNum = Math.floor(Math.random() * 2),//取零个或一个
 
           topImgSpliceIndex = 0 ,
           imgsArrangeCenterArr = imgsArrangeArr.splice(centerIndex,1);
