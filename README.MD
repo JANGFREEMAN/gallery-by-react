@@ -1,2 +1,2 @@
 ## 作品演示地址
-http://www.zhangyx92.com/gallery-by-react/index.html
+https://jangfreeman.github.io/gallery-by-react/index.html
